@@ -51,8 +51,9 @@ export default {
 
 <style scoped>
 img {
-    width: 330px;
-    height: 330px;
+    width: 315px;
+    height: 315px;
+
 }
 .center-text {
     text-align: center;
