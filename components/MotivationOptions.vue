@@ -39,7 +39,7 @@ export default {
 
         if (cardHasNotBeenPicked) cardsNotPicked.push(card);
       }
-      return cardsNotPicked;
+      return cardsNotPicked; //test
     },
   },
 };
